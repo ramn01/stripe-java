@@ -164,8 +164,6 @@ This section will describe how to setup your IDEA editor to begin working with t
 - Install Gson:
     - Go to `File > Project Settings > Libraries`, hit the + at the top, search for gson, and install `com.google.code.gson:gson:2.8.5`, or the most recent version.
 
-
-
 [connect]: https://stripe.com/connect
 [lombok]: https://projectlombok.org
 [lombok-plugins]: https://projectlombok.org/setup/overview
